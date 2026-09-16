@@ -14,4 +14,4 @@ Es gab sogar einige Marienkäfer komplett ohne Punkte, ich würde sagen, es war 
 
 Zuvor hatte ich zwei Semester an der Technischen Fachhochschule Lübeck studiert.
 
-![ein Marienkäfer auf einem Blatt]("https://get.pxhere.com/photo/nature-photography-leaf-flower-green-insect-macro-ladybug-fauna-ladybird-invertebrate-close-up-insects-beetle-macro-photography-affix-leaf-beetle-plant-stem-851243.jpg")
+![ein Marienkäfer auf einem Blatt](https://get.pxhere.com/photo/nature-photography-leaf-flower-green-insect-macro-ladybug-fauna-ladybird-invertebrate-close-up-insects-beetle-macro-photography-affix-leaf-beetle-plant-stem-851243.jpg)
