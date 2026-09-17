@@ -31,4 +31,3 @@ Zuvor hatte ich zwei Semester an der Technischen Fachhochschule Lübeck studiert
 - ein Lesetagebuch zum Loggen aller von mir bisher ausgeliehenen Büchern und zum Berechnen von Lesezielen (Javascript, PHP, HTML, CSS)
 - eine performante und wenig Ressourcen verbrauchende HTML Darstellung der Open Data Datensätze der Hansestadt Lübeck (Javascript, JSON, PHP, HTML, CSS)
 - eine sich automatisch sortierende Mindesthaltbarkeitsliste, damit ich beim Einkaufen sehen kann welche Lebensmittel bald ablaufen und was ich noch habe (Doppelkäufe vermeiden) und damit ich ungefähr weiß was ich passendes dazu kaufen kann (Javascript, PHP, HTML, CSS)
-- 
